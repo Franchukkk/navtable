@@ -274,6 +274,7 @@ ul.flex:first-child>li:last-child {
 }
 
 .second-sub {
+    top: -5px;
     left: 210px;
     padding-left: 5px;
 }
