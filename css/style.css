@@ -280,6 +280,7 @@ ul.flex:first-child>li:last-child {
 }
 
 .third-sub {
+    top: -5px;
     left: -215px;
     padding-right: 5px;
 }
