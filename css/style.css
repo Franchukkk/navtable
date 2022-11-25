@@ -312,6 +312,10 @@ ul.flex:first-child>li:last-child {
     border-radius: 0 3px 0 0;
 }
 
+.zoja-li{
+    padding: 14px 0 14px 0;
+}
+
 .open:hover>.sub-menu {
     visibility: visible;
     max-height: 1000px;
